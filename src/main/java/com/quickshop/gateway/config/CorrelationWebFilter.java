@@ -1,4 +1,4 @@
-package com.quickshop.config;
+package com.quickshop.gateway.config;
 
 import org.slf4j.MDC;
 import org.springframework.stereotype.Component;

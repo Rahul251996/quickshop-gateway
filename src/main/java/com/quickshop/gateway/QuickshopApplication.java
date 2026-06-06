@@ -1,4 +1,4 @@
-package com.quickshop;
+package com.quickshop.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
